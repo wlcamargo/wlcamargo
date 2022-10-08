@@ -22,10 +22,9 @@ Aqui você encontrará scripts no âmbito de soluções com dados.
 [![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlcamargo&show_icons=true&theme=highcontrast)
+![WL Camargo GitHub stats](https://github-readme-stats.vercel.app/api?username=wlcamargo&show_icons=true&theme=highcontrast)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlcamargo&layout=compact)](https://github.com/wlcamargo/github-readme-stats)
 
 
 

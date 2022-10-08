@@ -20,3 +20,12 @@ Aqui você encontrará scripts no âmbito de soluções com dados.
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)]()
 [![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlcamargo&show_icons=true&theme=highcontrast)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlcamargo&layout=compact)](https://github.com/wlcamargo/github-readme-stats)
+
+
+

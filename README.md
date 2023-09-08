@@ -1,13 +1,10 @@
-### Olá, pessoal! Sejam bem vindos ao meu repositório de Scripts 👋
+# Wallace Camargo - Consultor de Business Intelligence
 
-Aqui você encontrará scripts no âmbito de soluções com dados.
+MBA em Business Intelligence (BI) - Administrador, sou um profissional com mais de 5 anos de experiência em análise de dados com a capacidade de planear e desenvolver uma solução de Business Intelligence do início ao fim com as melhores práticas do mercado. 
 
+Iniciei minha trajetória na área de dados em 2015 através do Excel em um negócio familiar, onde eu era responsável por construir e sustentar diversos ficheiros de apoio à decisão. Em 2017 tornei-me estagiário de Marketing com o intuito de controlar indicadores da área e contruibuir para o levantamento de diversos insight’s relevantes para o negócio. No final de 2018, conheci o VBA e comecei a desenvolver scripts para automatizar minhas tarefas manuais e ganhar produtividade dentro do Excel. No início de 2019, conheci o Power BI e o SQL Server e comecei a migrar reports do Excel para soluções de BI (Business Intelligence). Em 2020 tornei-me Analista de BI com foco em construção dashboards estratégicos, mas também táticos e operacionais. Em 2022 iniciei no mundo do big data e todas as tecnologias deste arcabouço, juntamente do Azure e Databricks tem sido meu principal foco de aprendizado e evolução no momento.
 
-### Trajetória profissional
-
-No vídeo abaixo eu conto a minha trajetória profissional (gravado em outubro 2022)
-
-https://youtu.be/0wGhhkyksBs
+Hoje atuo como Consultor de Business Intelligence com foco em Engenharia de Dados no grupo Sonae.
 
 
 ## Meus Contatos

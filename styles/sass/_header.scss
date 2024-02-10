@@ -1,0 +1,111 @@
+header {
+  height: 100vh; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  .heroImageContainer {
+    flex: 0 0 50%;
+    padding: 0 15px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    
+    img {
+      border-radius: 50%;
+      margin: 0 auto;
+      width: 350px;
+      height: 350px;
+      box-shadow: 12px 0 rgba(217, 200, 241, 1), 24px 0 rgba(226, 214, 243, 1), 36px 0 rgba(236, 230, 245, 1);
+    }
+  }
+
+  .heroDescription {
+    flex: 0 0 50%;
+    padding: 0 15px;
+    width: 100%;
+
+    .greeting {
+      letter-spacing: 1px;
+      font-size: 1rem;
+      line-height: 1.2;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      letter-spacing: 2px;
+      margin: 24px 0;
+
+      span {
+        color: $mainColor;
+      }
+    }
+
+    .smallBio {
+      letter-spacing: 1px;
+      color: #5F6F81;
+      font-size: 1rem;
+      min-width: 250px;
+      line-height: 1.4;
+
+      span {
+        color: $mainColor;
+        font-size: 1.1rem;
+      }
+    }
+
+    .socialsResume {
+      display: flex;
+      margin-top: 30px;
+
+      .resumeLink {
+        background-color: $mainColor;
+        padding: 15px 35px;
+        border-radius: 40px;
+        letter-spacing: 2px;
+        font-size: 0.9rem;
+        font-weight: 300;
+        display: inline-block;
+        transition: $transitionEase;
+
+        &:hover {
+          box-shadow: 0 14px 28px rgba(0,0,0,0.2);
+        }
+
+        &:focus {
+          @include focusBorder;
+        }
+      }
+    }
+  }
+}
+
+.socialsList {
+  display: flex;
+  margin-left: 50px;
+
+  li {
+    margin: 0 10px;
+
+    a{
+      padding: 9px 10px;
+      background-color: white;
+      border-radius: 6px;
+      color: $mainColor;
+      border: 1px solid $offWhite;
+      box-shadow: 0px 4px 6px rgba(134, 151, 168, 0.1);
+      transition: $transitionEase;
+      display: inline-block;
+
+      &:hover {
+        box-shadow: 0 7px 15px rgba(0,0,0,0.2);
+      }
+
+      &:focus {
+        @include focusBorder;
+      }
+    }
+  }
+}

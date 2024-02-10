@@ -1,0 +1,133 @@
+.menuButton {
+  cursor: pointer;
+  position: fixed;
+  height: 30px;
+  width: 35px;
+  padding: 10px;
+  top: 35px;
+  right: 25px;
+  z-index: 20;
+  display: none;
+
+  &:focus {
+    border: 2px solid $mainColor;
+  }
+
+  .linesContainer {
+      position: relative;
+      span, span:before, span:after {
+      border-radius: 5px;
+      width: 25px;
+      height: 2px;
+      background-color: black;
+      position: absolute;
+      display: block;
+      content: '';
+    }
+
+    span {
+      top: 3px;
+      left: -6px;
+    }
+    span:before {
+      top: -10px;
+    }
+
+    span:after {
+      bottom: -10px;
+    }
+  }
+}
+
+.sideMenu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 105px;
+  height: 100vh;
+  background-color: $mainColor;
+  position: fixed;
+  color: white;
+  transition: $transitionEase;
+  z-index: 10;
+
+  p {
+    text-align: center;
+    padding: 30px 15px;
+    font-size: 3rem;
+    letter-spacing: 1px;
+    font-weight: 300;
+    background-color: #773dc8;
+  }
+
+  nav {
+    padding: 26px;
+
+    a {
+      padding: 13px 17px;
+      display: inline-block;
+      margin-bottom: 10px;
+      font-size: 1.3rem;
+      transition-duration: 0.25s;
+      border-radius: 6px;
+      width: 100%;
+      position: relative;
+
+      span {
+        font-size: 0.75rem;
+        font-weight: 300;
+        letter-spacing: 2px;
+        transition-duration: 0.2s;
+        position: absolute;
+        left: 55px;
+        top: 18px;
+        transition-delay: 0.1s;
+      }
+
+      &:hover,
+      &:focus {
+        background-color: #9D69E5;
+        box-shadow: 0 14px 28px rgba(0,0,0,0.2);
+      }
+    }
+  }
+
+  .scrollDown {
+    height: 50px;
+    position: relative;
+    left: 35px;
+
+    .lni-arrow-down {
+      line-height: 1.2;
+      font-size: 2rem;
+    }
+
+    .scrollDownText {
+      font-size: 0.75rem;
+      position: absolute;
+      top: 10px;
+      left: 30px;
+      font-weight: 300;
+    }
+  }
+}
+
+.hoverMenu {
+  width: 220px;
+}
+
+.menuShow {
+  display: block;
+}
+
+.menuHide {
+  display: none;
+}
+
+.sideMenuHide {
+  left: -300px;
+}
+
+.sideMenuShow {
+  left: 0;
+}

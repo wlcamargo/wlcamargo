@@ -33,7 +33,7 @@ Iniciei minha trajetória na área de dados em 2015 através do Excel em um neg�
 ## 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OP4LWLdpIGs"><img width="140px" src="https://i.ytimg.com/vi/OP4LWLdpIGs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OP4LWLdpIGs">Área de Dados na Argentina</a><br/>Mar 11, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=OP4LWLdpIGs">Área de Dados na Argentina</a><br/>Mar 14, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DO9nGq3nSAM"><img width="140px" src="https://i.ytimg.com/vi/DO9nGq3nSAM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DO9nGq3nSAM">CDC - Change Data Capture no SQL Server</a><br/>Mar 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qz7ddOM0Mqc"><img width="140px" src="https://i.ytimg.com/vi/qz7ddOM0Mqc/mqdefault.jpg"></a></td>

@@ -32,7 +32,9 @@ Iniciei minha trajetória na área de dados em 2015 através do Excel em um neg�
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Q3n6mxaX_zY"><img width="140px" src="https://i.ytimg.com/vi/Q3n6mxaX_zY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cE-vb5jUjSE"><img width="140px" src="https://i.ytimg.com/vi/cE-vb5jUjSE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cE-vb5jUjSE">Atualização Incremental com Python - CDC &lpar;Change Data Capture&rpar; - Upsert</a><br/>Apr 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Q3n6mxaX_zY"><img width="140px" src="https://i.ytimg.com/vi/Q3n6mxaX_zY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Q3n6mxaX_zY">Versionamento de Metadados com Open Metadata</a><br/>Apr 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1cvqmWLMMj4"><img width="140px" src="https://i.ytimg.com/vi/1cvqmWLMMj4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1cvqmWLMMj4">Como mascarar dados com Open Metadata &lpar;protegendo dados sensíveis&rpar;</a><br/>Mar 19, 2024</td></tr></table>
@@ -40,8 +42,6 @@ Iniciei minha trajetória na área de dados em 2015 através do Excel em um neg�
 <td><a href="https://www.youtube.com/watch?v=OP4LWLdpIGs">Área de Dados na Argentina</a><br/>Mar 14, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DO9nGq3nSAM"><img width="140px" src="https://i.ytimg.com/vi/DO9nGq3nSAM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DO9nGq3nSAM">CDC - Change Data Capture no SQL Server</a><br/>Mar 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qz7ddOM0Mqc"><img width="140px" src="https://i.ytimg.com/vi/qz7ddOM0Mqc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qz7ddOM0Mqc">Data Quality com Streamlit [Python]</a><br/>Mar 7, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

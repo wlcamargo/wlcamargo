@@ -38,7 +38,9 @@ https://wlcamargo.github.io/
 
 Updated by GitHub Actions
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UDcW_MpF-TI"><img width="140px" src="https://i.ytimg.com/vi/UDcW_MpF-TI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=97mi44KE070"><img width="140px" src="https://i.ytimg.com/vi/97mi44KE070/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=97mi44KE070">Evangelizando SQL - Banco de Dados em Container Docker</a><br/>Aug 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UDcW_MpF-TI"><img width="140px" src="https://i.ytimg.com/vi/UDcW_MpF-TI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UDcW_MpF-TI">Pipeline de CI &lpar;Continous Integration&rpar; com o Gitlab &lpar;Local&rpar;</a><br/>Aug 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SGnqbHoiCDY"><img width="140px" src="https://i.ytimg.com/vi/SGnqbHoiCDY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SGnqbHoiCDY">CI &lpar;Teste automatizado&rpar; com Jenkins, Github  e Python</a><br/>Jul 29, 2024</td></tr></table>
@@ -46,8 +48,6 @@ Updated by GitHub Actions
 <td><a href="https://www.youtube.com/watch?v=r0X-c7lWT8U">Catalogando dados do Minio + Postgres com Open Metadata</a><br/>Jul 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jYVmd-trlr4"><img width="140px" src="https://i.ytimg.com/vi/jYVmd-trlr4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jYVmd-trlr4">Subindo containers com o Docker Compose - Protegendo palavras sensíveis</a><br/>Jun 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Njuc7Uw7GZE"><img width="140px" src="https://i.ytimg.com/vi/Njuc7Uw7GZE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Njuc7Uw7GZE">Dashboard Open Source com Apache Superset</a><br/>Jun 3, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

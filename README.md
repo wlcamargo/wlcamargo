@@ -1,10 +1,6 @@
 # Wallace Camargo - Data Engineer
 
-MBA in Business Intelligence (BI) - Administrator
-
-I am a professional with over 5 years of experience in data analysis, with the ability to plan and develop a Business Intelligence solution from start to finish, following best market practices.
-
-I started my career in the data field in 2015 using Excel in a family business, where I was responsible for building and maintaining various decision-support files. In 2017, I became a Marketing intern, aiming to control the department's key performance indicators and contribute to the collection of various relevant insights for the business. At the end of 2018, I discovered VBA and began developing scripts to automate my manual tasks and increase productivity within Excel. At the beginning of 2019, I learned about Power BI and SQL Server and started migrating reports from Excel to BI (Business Intelligence) solutions. In 2020, I became a BI Analyst, focusing on building strategic, tactical, and operational dashboards. In 2022, I ventured into the world of big data and its associated technologies, along with cloud environments, which have been my main areas of learning and development at present.
+I am a Data Engineer professional with more than 6 years of experience in data area with the ability to plan and develop a data product from start to finish with the best market practices.
 
 ## Portfolio
 https://wlcamargo.github.io/

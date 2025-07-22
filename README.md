@@ -34,7 +34,9 @@ https://wlcamargo.github.io/
 
 Updated by GitHub Actions
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kIqbvSd_rH8"><img width="140px" src="https://i.ytimg.com/vi/kIqbvSd_rH8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kiq0tzC1Q6Y"><img width="140px" src="https://i.ytimg.com/vi/kiq0tzC1Q6Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kiq0tzC1Q6Y">Produto de dados &lpar;streamlit + airflow + s3/minio&rpar;</a><br/>Jul 21, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kIqbvSd_rH8"><img width="140px" src="https://i.ytimg.com/vi/kIqbvSd_rH8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kIqbvSd_rH8">Exportando logs e traces do Airflow para o Grafana &lpar;Observabilidade com Airflow e Grafana&rpar;</a><br/>Mar 17, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eiM05UZy-ag"><img width="140px" src="https://i.ytimg.com/vi/eiM05UZy-ag/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eiM05UZy-ag">Projeto end to end de engenharia de dados &lpar;python, dbt, dremio, pbi&rpar;</a><br/>Mar 3, 2025</td></tr></table>
@@ -42,8 +44,6 @@ Updated by GitHub Actions
 <td><a href="https://www.youtube.com/watch?v=frqwfqmhorU">CI / CD - DevOps para Engenheiro de Dados &lpar;Github Actions + dbt + Snowflake&rpar;</a><br/>Feb 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mBrk5hvqc84"><img width="140px" src="https://i.ytimg.com/vi/mBrk5hvqc84/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mBrk5hvqc84">Engenharia de Dados com Apache Airflow, Snowflake e dbt</a><br/>Feb 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DQ381pccsFM"><img width="140px" src="https://i.ytimg.com/vi/DQ381pccsFM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DQ381pccsFM">Agendar tarefas Python no Windows</a><br/>Jan 27, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

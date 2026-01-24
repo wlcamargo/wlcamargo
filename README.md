@@ -7,6 +7,7 @@
 - Strong hands-on experience with SQL, Python, Spark, cloud platforms, and modern open-source tools.
 
 Core skills and Technologies:
+
 • Data Processing: Python, Spark and dbt
 • Data Orchestration: Airflow and Azure Data Factory
 • Databases: SQL Server, and Postgres

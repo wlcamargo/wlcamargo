@@ -8,20 +8,33 @@
 
 Core skills and Technologies:
 
-• Data Processing: Python, Spark and dbt
-• Data Orchestration: Airflow and Azure Data Factory
-• Databases: SQL Server, and Postgres
-• Data Quality: Soda
-• Cloud Platforms: Azure and AWS
-• Testing: Pytest
-• Version Control: Git, GitHub and Gitlab
-• CI/CD: Jenkins, GitHub Actions and Gitlab
-• Operating Systems: Linux and Windows
-• Container: Docker and Kubernetes
-• Documentation: Mkdocs and Confluence
-• Data Catalog: Open Metadata and Unit Catalog
-• Observability: Grafana, Prometheus, Loki, Tempo and Open Telemetry
-• Dataviz: Power BI
+- Data Processing: Python, Spark and dbt
+
+- Data Orchestration: Airflow and Azure Data Factory
+
+- Databases: SQL Server, and Postgres
+
+- Data Quality: Soda
+
+- Cloud Platforms: Azure and AWS
+
+- Testing: Pytest
+
+- Version Control: Git, GitHub and Gitlab
+
+- CI/CD: Jenkins, GitHub Actions and Gitlab
+
+- Operating Systems: Linux and Windows
+  
+- Container: Docker and Kubernetes
+  
+- Documentation: Mkdocs and Confluence
+
+- Data Catalog: Open Metadata and Unit Catalog
+
+- Observability: Grafana, Prometheus, Loki, Tempo and Open Telemetry
+
+- Dataviz: Power BI
 
 ## Portfolio
 https://wlcamargo.github.io/

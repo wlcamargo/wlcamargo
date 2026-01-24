@@ -1,12 +1,14 @@
 # Wallace Camargo - Data Engineer
 
+## Experience summary
+
 - Data Engineer with experience designing and implementing scalable data solutions.
 
 - Expertise in building data pipelines, data warehouses, and lakehouses with a focus on data quality, observability and CI/CD practices.
 
 - Strong hands-on experience with SQL, Python, Spark, cloud platforms, and modern open-source tools.
 
-Core skills and Technologies:
+## Core skills and Technologies:
 
 - Data Processing: Python, Spark and dbt
 

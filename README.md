@@ -71,7 +71,7 @@ https://wlcamargo.github.io/
 Updated by GitHub Actions
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WSuZn6cBkYY"><img width="140px" src="https://i.ytimg.com/vi/WSuZn6cBkYY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WSuZn6cBkYY">Evangelizando SQL - Fabric Vale a Pena? [Com Luciano Borba]</a><br/>Feb 23, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=WSuZn6cBkYY">Evangelizando SQL - Fabric Vale a Pena? [Com Luciano Borba]</a><br/>Feb 27, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=428x3EYl4SQ"><img width="140px" src="https://i.ytimg.com/vi/428x3EYl4SQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=428x3EYl4SQ">Setup de Estudo Local para Engenharia de Dados</a><br/>Dec 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8fmSFYOKmJI"><img width="140px" src="https://i.ytimg.com/vi/8fmSFYOKmJI/mqdefault.jpg"></a></td>
